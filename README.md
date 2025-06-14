@@ -1,3 +1,3 @@
 # TicTacToe_GAME
-An easy-to-win Tic Tac Toe game 
+<p> An easy-to-win Tic Tac Toe game </p>
 <img src="TicTacToe/images/main_img.jpg" alt="Tic Tac Toe">
